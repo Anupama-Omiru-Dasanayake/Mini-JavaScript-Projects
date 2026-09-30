@@ -107,13 +107,13 @@ The purpose of this repository is to:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Mini-JavaScript-Projects.git
+git clone https://github.com/Anupama-Omiru-Dasanayake/mini-javascript-projects.git
 ```
 
 Navigate into the repository:
 
 ```bash
-cd Mini-JavaScript-Projects
+cd mini-javascript-projects
 ```
 
 Open any project folder and launch its `index.html` file in your browser.
