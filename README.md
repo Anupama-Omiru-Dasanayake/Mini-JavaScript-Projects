@@ -11,8 +11,8 @@ Each project focuses on a specific concept, feature, or real-world use case whil
 | # | Project | Description | Technologies | Status |
 |---|---------|-------------|--------------|--------|
 | 01 | [To-Do List App](./To-Do-List-App) | A simple task management application for adding and managing tasks. | HTML, CSS, JavaScript | ✅ Completed |
-| 02 | Coming Soon | More projects will be added as I continue learning JavaScript. | JavaScript | 🚧 Planned |
-
+| 02 | [Mini-Calendar](./Mini-Calendar/) | A simple calendar displaying current day, date, month and year | HTML, CSS, JavaScript | ✅ Completed |
+| 03 | coming soon |  |  |
 ---
 
 ## Technologies
@@ -77,6 +77,7 @@ The purpose of this repository is to:
 ### Beginner
 
 - [x] To-Do List App
+- [x] Mini Calendar
 - [ ] Calculator
 - [ ] Digital Clock
 - [ ] Counter App
