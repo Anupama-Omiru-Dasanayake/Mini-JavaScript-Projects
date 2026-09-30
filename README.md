@@ -135,7 +135,7 @@ New JavaScript projects will be added as I learn and practice new concepts.
 
 ---
 
-## 👨Author
+## Author
 
 **Anupama Omiru**
 
