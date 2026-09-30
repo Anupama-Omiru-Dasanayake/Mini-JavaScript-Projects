@@ -1,4 +1,4 @@
-# Mini JavaScript Projects 🚀
+# Mini JavaScript Projects
 
 A collection of small JavaScript projects created to practice and strengthen my **HTML, CSS, and JavaScript** skills.
 
@@ -6,7 +6,7 @@ Each project focuses on a specific concept, feature, or real-world use case whil
 
 ---
 
-## 📚 Projects
+## Projects
 
 | # | Project | Description | Technologies | Status |
 |---|---------|-------------|--------------|--------|
@@ -15,7 +15,7 @@ Each project focuses on a specific concept, feature, or real-world use case whil
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 The projects in this repository mainly use:
 
@@ -34,7 +34,7 @@ The projects in this repository mainly use:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 Mini-JavaScript-Projects/
@@ -58,7 +58,7 @@ Mini-JavaScript-Projects/
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The purpose of this repository is to:
 
@@ -72,9 +72,9 @@ The purpose of this repository is to:
 
 ---
 
-## 📈 Learning Progress
+## Learning Progress
 
-### 🟢 Beginner
+### Beginner
 
 - [x] To-Do List App
 - [ ] Calculator
@@ -83,7 +83,7 @@ The purpose of this repository is to:
 - [ ] Random Number Generator
 - [ ] Color Generator
 
-### 🟡 Intermediate
+### Intermediate
 
 - [ ] Quiz App
 - [ ] Weather App
@@ -92,7 +92,7 @@ The purpose of this repository is to:
 - [ ] Password Generator
 - [ ] Countdown Timer
 
-### 🔴 Advanced
+### Advanced
 
 - [ ] Movie Search App
 - [ ] GitHub Profile Finder
@@ -102,7 +102,7 @@ The purpose of this repository is to:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 Clone the repository:
 
@@ -127,7 +127,7 @@ To-Do-List-App/
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 This repository is **actively being developed**.
 
@@ -135,7 +135,7 @@ New JavaScript projects will be added as I learn and practice new concepts.
 
 ---
 
-## 👨‍💻 Author
+## 👨Author
 
 **Anupama Omiru**
 
@@ -143,7 +143,7 @@ Computer Science Undergraduate
 
 ---
 
-## ⭐ Goal
+## Goal
 
 > Learn JavaScript by building, breaking, fixing, and building again.
 
@@ -151,4 +151,4 @@ This repository represents my progress from **JavaScript fundamentals → DOM ma
 
 ---
 
-⭐ If you find this repository useful, feel free to explore the individual projects.
+If you find this repository useful, feel free to explore the individual projects.
